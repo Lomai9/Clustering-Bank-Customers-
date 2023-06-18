@@ -1,4 +1,4 @@
-# Clustering-Bank-Customers-
+# Clustering-Bank-Customers
 
 The data is a bank card transaction and user (card) loyalty analysis dataset
 provided by a bank in Brazil. This assignment aims to practice on topics covered
