@@ -26,7 +26,8 @@ judged based on your answer’s relevance and your regression model’s performa
 This assignment aims to practice unsupervised analysis, i.e., clustering and frequent
 pattern mining.
 
-3 Clustering Analysis
+**Clustering Analysis**
+
 Q1 (30 points) Our goal is to cluster users based on their spending behaviors. Your task is to perform a clustering analysis leveraging the K-means
 method and report your findings. You should specify how you select the
 right ”K” for the k-means method, and how you create features. Explain
